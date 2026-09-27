@@ -1,0 +1,6 @@
+{
+  "name": "Student Tools Hub",
+  "description": "Calculate GPA, CGPA, grades, percentage, and attendance instantly. Free academic planning tools and Gemini AI advisor for university and college students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

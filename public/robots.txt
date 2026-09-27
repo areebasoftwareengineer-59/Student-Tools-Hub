@@ -1,0 +1,7 @@
+# robots.txt for Student Tools Hub
+User-agent: *
+Allow: /
+Allow: /api/chat
+
+# Host & Sitemap
+Sitemap: https://ais-pre-tlvinjzb4csidb47jvfmt2-17052766926.asia-southeast1.run.app/sitemap.xml
